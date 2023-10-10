@@ -1,0 +1,283 @@
+{
+  "services": [
+    {
+      "title": "Fotografía",
+      "icon": "fas fa-camera",
+      "description": "La fotografía es el arte y la técnica de capturar imágenes mediante la utilización de una cámara y la manipulación de la luz."
+    },
+    {
+      "title": "Videografía",
+      "icon": "fas fa-video",
+      "description": "La videografía es la producción de videos utilizando equipos y técnicas específicas para capturar y editar imágenes en movimiento."
+    },
+    {
+      "title": "Publicidad",
+      "icon": "fas fa-bullhorn",
+      "description": "La publicidad es una forma de comunicación persuasiva que busca promocionar productos, servicios o ideas a un público determinado."
+    },
+    {
+      "title": "Souvenirs",
+      "icon": "fas fa-gifts",
+      "description": "Los souvenirs son pequeños objetos o recuerdos que se compran como memoria de un lugar visitado o una experiencia vivida."
+    }
+  ],
+  "works": [
+    {
+      "filter": "photography",
+      "image": "/images/portfolio/portfolio1.jpg",
+      "category": "Social, XV Años, Bodas, Bautizos, Cumpleaños, Graduaciones, Universidades, Preparatorias, Primarias, Secundarias, Primarias, Preescolar, Políticas",
+      "text": "Social / Graduaciones / Políticas"
+    },
+    {
+      "filter": "videography",
+      "image": "/images/portfolio/portfolio3.jpeg",
+      "category": "Social, Graduaciones, Políticas",
+      "text": "Social / Graduaciones / Políticas"
+    },
+    {
+      "filter": "marketing",
+      "image": "/images/portfolio/portfolio4.jpeg",
+      "category": "Digital, Impresa, Flyers, Banners, Stands, Lonas",
+      "text": "Digital / Impresa / Flyers / Banner / Stands / Lonas"
+    },
+    {
+      "filter": "souvernirs",
+      "image": "/images/portfolio/portfolio5.jpeg",
+      "category": "Playeras, Gorras, Tazas, Termos, Carpetas de Vinipiel",
+      "text": "Playeras / Gorras / Tazas / Termos / Carpetas de Vinipiel"
+    }
+  ],
+  "photography": {
+    "social": [
+      {
+        "src": "/images/blog/30.jpeg",
+        "alt": "XV Años",
+        "title": "XV Años",
+        "subtitle": "XV Años"
+      },
+      {
+        "src": "/images/blog/30.jpeg",
+        "alt": "Boda",
+        "title": "Boda",
+        "subtitle": "Boda"
+      },
+      {
+        "src": "/images/blog/30.jpeg",
+        "alt": "Bautizo",
+        "title": "Bautizo",
+        "subtitle": "Bautizo"
+      },
+      {
+        "src": "/images/blog/30.jpeg",
+        "alt": "Cumpleaños",
+        "title": "Cumpleaños",
+        "subtitle": "Cumpleaños"
+      }
+    ],
+    "graduations": [
+      {
+        "src": "/images/blog/40.jpeg",
+        "alt": "Graduación Universidad",
+        "title": "Universidad",
+        "subtitle": "Universidad"
+      },
+      {
+        "src": "/images/blog/40.jpeg",
+        "alt": "Graduación Preparatoria",
+        "title": "Preparatoria",
+        "subtitle": "Preparatoria"
+      },
+      {
+        "src": "/images/blog/40.jpeg",
+        "alt": "Graduación Secundaria",
+        "title": "Secundaria",
+        "subtitle": "Secundaria"
+      },
+      {
+        "src": "/images/blog/40.jpeg",
+        "alt": "Graduación Primaria",
+        "title": "Primaria",
+        "subtitle": "Primaria"
+      },
+      {
+        "src": "/images/blog/40.jpeg",
+        "alt": "Graduación Preescolar",
+        "title": "Preescolar",
+        "subtitle": "Preescolar"
+      }
+    ],
+    "political": [
+      {
+        "src": "/images/blog/50.jpeg",
+        "alt": "Política",
+        "title": "Política",
+        "subtitle": "Política"
+      }
+    ]
+  },
+  "marketing": [
+    {
+      "active": true,
+      "image": "/images/portfolio/portfolio1.jpg",
+      "title": "Digital"
+    },
+    {
+      "active": false,
+      "image": "/images/portfolio/portfolio3.jpeg",
+      "title": "Impresa"
+    },
+    {
+      "active": false,
+      "image": "/images/portfolio/portfolio4.jpeg",
+      "title": "Banners"
+    },
+    {
+      "active": false,
+      "image": "/images/portfolio/portfolio5.jpeg",
+      "title": "Stands"
+    }
+  ],
+  "souvenir": [
+    {
+      "src": "/images/blog/40.jpeg",
+      "alt": "Souvenir para Playeras",
+      "title": "Playeras",
+      "subtitle": "Playeras de varios estilos y colores, con bordado o estampado"
+    },
+    {
+      "src": "/images/blog/40.jpeg",
+      "alt": "Souvenir para Gorras",
+      "title": "Gorras",
+      "subtitle": "Gorras de varios estilos y colores, con bordado o estampado"
+    },
+    {
+      "src": "/images/blog/40.jpeg",
+      "alt": "Souvenir para Tazas",
+      "title": "Tazas",
+      "subtitle": "Tazas de varios estilos y colores, con bordado o estampado"
+    },
+    {
+      "src": "/images/blog/40.jpeg",
+      "alt": "Souvenir para Termos",
+      "title": "Termos",
+      "subtitle": "Termos de varios estilos y colores, con bordado o estampado"
+    },
+    {
+      "src": "/images/blog/40.jpeg",
+      "alt": "Souvenir para Carpetas de Vinipiel",
+      "title": "Carpetas de Vinipiel",
+      "subtitle": "Carpetas de Vinipiel de varios estilos y colores, con bordado o estampado"
+    }
+  ],
+  "graduationPackages": [
+    {
+      "category": "premier",
+      "image": "/images/packages/line.jpg",
+      "modelCount": 5
+    },
+    {
+      "category": "gold",
+      "image": "/images/packages/line.jpg",
+      "modelCount": 5
+    },
+    {
+      "category": "silver",
+      "image": "/images/packages/line.jpg",
+      "modelCount": 5
+    },
+    {
+      "category": "bronze",
+      "image": "/images/packages/line.jpg",
+      "modelCount": 5
+    }
+  ],
+  "premier": [
+    {
+      "name": "Paris",
+      "frames": [
+        {
+          "type": "Panorámica",
+          "image": "/images/packages/models/default/panoramica.jpg"
+        },
+        {
+          "type": "Familia",
+          "image": "/images/packages/models/default/familia.jpg"
+        },
+        {
+          "type": "Amigos",
+          "image": "/images/packages/models/default/amigos.jpg"
+        },
+        {
+          "type": "Individual",
+          "image": "/images/packages/models/default/individual.jpg"
+        },
+        {
+          "type": "Agradecimiento",
+          "image": "/images/packages/models/default/agradecimiento.jpg"
+        },
+        {
+          "type": "Diploma",
+          "image": "/images/packages/models/default/diploma.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Venecia",
+      "frames": [
+        {
+          "type": "Panorámica",
+          "image": "/images/packages/models/default/panoramica.jpg"
+        },
+        {
+          "type": "Familia",
+          "image": "/images/packages/models/default/familia.jpg"
+        },
+        {
+          "type": "Amigos",
+          "image": "/images/packages/models/default/amigos.jpg"
+        },
+        {
+          "type": "Individual",
+          "image": "/images/packages/models/default/individual.jpg"
+        },
+        {
+          "type": "Agradecimiento",
+          "image": "/images/packages/models/default/agradecimiento.jpg"
+        },
+        {
+          "type": "Diploma",
+          "image": "/images/packages/models/default/diploma.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Roma",
+      "frames": [
+        {
+          "type": "Panorámica",
+          "image": "/images/packages/models/default/panoramica.jpg"
+        },
+        {
+          "type": "Familia",
+          "image": "/images/packages/models/default/familia.jpg"
+        },
+        {
+          "type": "Amigos",
+          "image": "/images/packages/models/default/amigos.jpg"
+        },
+        {
+          "type": "Individual",
+          "image": "/images/packages/models/default/individual.jpg"
+        },
+        {
+          "type": "Agradecimiento",
+          "image": "/images/packages/models/default/agradecimiento.jpg"
+        },
+        {
+          "type": "Diploma",
+          "image": "/images/packages/models/default/diploma.jpg"
+        }
+      ]
+    }
+  ]
+}
